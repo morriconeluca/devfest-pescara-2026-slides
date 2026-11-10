@@ -47,9 +47,9 @@ Durante la sessione è stata condotta una demo in diretta che mette a confronto 
 
 I sorgenti completi e i prompt utilizzati sono consultabili nei due repository dedicati:
 
-1. 🔴 **[demo-pescara-2026-demo-without-gates](https://github.com/morriconeluca/demo-pescara-2026-demo-without-gates)**  
+1. 🔴 **[devfest-pescara-2026-demo-without-gates](https://github.com/morriconeluca/devfest-pescara-2026-demo-without-gates)**  
    *Scenario senza Quality Gates computazionali:* gli agenti sviluppano basandosi esclusivamente sul feedforward del prompt e sulle configurazioni standard di React + Vite, evidenziando i rischi di instabilità, mancanza di verifiche oggettive e test deboli.
-   - Contiene il file [`PROMPT.md`](https://github.com/morriconeluca/demo-pescara-2026-demo-without-gates/blob/main/PROMPT.md) usato per la demo.
+   - Contiene il file [`PROMPT.md`](https://github.com/morriconeluca/devfest-pescara-2026-demo-without-gates/blob/main/PROMPT.md) usato per la demo.
 
 2. 🟢 **[devfest-pescara-2026-demo-with-gates](https://github.com/morriconeluca/devfest-pescara-2026-demo-with-gates)**  
    *Scenario con Harness Deterministico (5 Quality Gates):* gli agenti sono governati da gate sequenziali obbligatori prima del merge:
